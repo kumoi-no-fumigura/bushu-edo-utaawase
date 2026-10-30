@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/bushu-edo-utaawase",
  "yomi": "ぶしゅうえどうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二十四番）",
+  "era": "文明6年（1474）6月17日",
+  "author": "太田道灌、判者 心敬",
+  "desc": "武蔵の江戸で太田道灌が催した歌合。海上夕立などの題で、道灌・心敬・木戸孝範・増上寺の音誉らが詠み、連歌師心敬が判を加える。奥書に、道灌の六代の孫太田資宗が書き写させたと記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
